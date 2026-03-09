@@ -6,7 +6,6 @@
 
 // Fungsi utama program, titik awal eksekusi
 fun main() {
-
     // Menampilkan header program
     println("===== SISTEM PENILAIAN =====")
     println()
